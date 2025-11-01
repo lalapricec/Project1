@@ -1,5 +1,5 @@
 # 🧙‍♀️ Create Your Fantasy  
-*A COMP 163 Project by [Your Name]*
+*A COMP 163 Project by Lauren Price*
 
 ## 📖 Overview
 **Create Your Fantasy** is a text-based character creation and management program inspired by RPG systems.  
