@@ -96,19 +96,13 @@ Defense: 8
 Health: 45
 Gold: 25
 Equipment: Bow, Light Armor
-Backstory: A forest scout with unmatched precision.
-
----
-
-## 📚 Requirements
-- Python 3.8+  
-- No external libraries required  
+Backstory: A forest scout with unmatched precision. 
 
 ---
 
 ## 🧑‍💻 Author’s Notes
 This project was created for **COMP 163** and demonstrates understanding of Python fundamentals.  
-AI assistance (ChatGPT) was used for documentation and explanation support.  
+AI assistance was used for documentation and explanation support.  
 
 ---
 
